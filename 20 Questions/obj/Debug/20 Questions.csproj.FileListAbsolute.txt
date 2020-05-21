@@ -1,0 +1,20 @@
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\20 Questions.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\_20_Questions.Form1.resources
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\_20_Questions.Properties.Resources.resources
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\20 Questions.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\20 Questions.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\20 Questions\20 Questions\bin\Debug\20 Questions.exe.config
+C:\Users\Alex\Documents\20 Questions\20 Questions\bin\Debug\20 Questions.exe
+C:\Users\Alex\Documents\20 Questions\20 Questions\bin\Debug\20 Questions.pdb
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\20 Questions.exe
+C:\Users\Alex\Documents\20 Questions\20 Questions\obj\Debug\20 Questions.pdb
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\bin\Debug\20 Questions.exe.config
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\bin\Debug\20 Questions.exe
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\bin\Debug\20 Questions.pdb
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\20 Questions.csprojResolveAssemblyReference.cache
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\_20_Questions.Form1.resources
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\_20_Questions.Properties.Resources.resources
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\20 Questions.csproj.GenerateResource.cache
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\20 Questions.csproj.CoreCompileInputs.cache
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\20 Questions.exe
+D:\Desktop\Work\School\IDAPS III\20 Questions\20 Questions\obj\Debug\20 Questions.pdb
